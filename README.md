@@ -1,4 +1,14 @@
 # Game: Labirynt 2D
+## Introduction
+Platform arcade game 2d - The game is about killing appearing endlessly zombies and collecting as many coins as possible.
+
+## Technologies
+Implemented in JavaScript (Vanilla).
+The animation was made using Sprite sheet
+
+## Launch
+Open _index.html_ file in the browser
+
 ## Functionality:
 * the player can control the character in 4 directions (up, down, left, right)
 * can collect coins and earn points
@@ -11,3 +21,4 @@
 * interaction with the opponent results in the loss of one health point
 * a killed opponent has a chance of dropping an item or coin
 * the keys open the door
+
