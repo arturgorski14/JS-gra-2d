@@ -3,8 +3,8 @@
 Platform arcade game 2d - The game is about killing appearing endlessly zombies and collecting as many coins as possible.
 
 ## Technologies
-Implemented in JavaScript (Vanilla).
-The animation was made using Sprite sheet
+- Implemented in JavaScript (Vanilla).
+- The animation was made using Sprite sheet
 
 ## Launch
 Open _index.html_ file in the browser
