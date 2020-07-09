@@ -1,5 +1,5 @@
 # Gra: Labirynt 2D
-# Funkcjonalność:
+### Funkcjonalność:
 # -gracz ma możliowść sterowania postacią (wstępnie w 4 kierunkach)
 # -może zbierac monety przez co zdobywa punkty
 # -ma pasek zdrowia, ktory traci przez interakcje z wrogiem lub interakcje z pułapką
