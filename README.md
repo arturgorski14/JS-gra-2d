@@ -1,6 +1,6 @@
 # Game: Labirynt 2D
 ## Introduction
-Platform arcade game 2d - The game is about killing appearing endlessly zombies and collecting as many coins as possible.
+It's a platform arcade game 2d. The game is about killing appearing endlessly zombies and collecting as many coins as possible.
 
 ## Technologies
 - Implemented in JavaScript (Vanilla).
